@@ -1,2 +1,2 @@
 # js-Rutu
-learing js by chai aur code 
+learning js by chai aur code 
